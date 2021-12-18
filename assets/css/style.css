@@ -1,12 +1,10 @@
-/* Applies styling to all elements on the page */
-
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
   }
   
-  /* Element Styling */
+  /* Element */ 
   
   a {
     color: #ffffff;
@@ -55,7 +53,7 @@
     font-size: 16px;
   }
   
-  /* Class styling */
+  /* Class styles for benefit */
   
   .benefit {
     margin-bottom: 32px;
