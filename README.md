@@ -14,4 +14,6 @@ All logical structure follows the styling and positioning
 
 ## Links
 
+* <a href="https://sjf630.github.io/horiseon/"> Link to the deployed website </a>
+* <a href="
 
